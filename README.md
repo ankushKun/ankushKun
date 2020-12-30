@@ -1,6 +1,6 @@
 # Konnichiwa<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
     Name = "Ankush Singh"
-    Interests = ["Programming","memes","Anime/Manga","Making Videos","Digital Art"]
+    Interests = ["Programming","memes","Anime/Manga","Making Videos","Digital Art", "Playing Guitar"]
     Languages = ["Python","Java","C#","HTML","CSS","C++"]
 
 ## Connect with me
