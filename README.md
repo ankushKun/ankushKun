@@ -4,9 +4,8 @@
     Languages = ["Python","Java","C#","HTML","CSS","Javascript","C++"]
 
 ## Connect with me
-![GitHub followers](https://img.shields.io/github/followers/ankushKun?label=Follow%20me&logo=github&style=flat-square)
+![](https://img.shields.io/github/followers/ankushKun?label=Follow%20me&logo=github&style=flat-square)
 [![](https://img.shields.io/badge/-YOUTUBE-informational?style=flat-square&logo=youtube&logoColor=white&color=red)](https://youtube.com/AnkushTechCreator/)
-<!--[![](https://img.shields.io/badge/-BLOG-informational?style=flat-square&logo=wordpress&logoColor=white)](http://ankushtechcreator.com)-->
 [![](https://img.shields.io/badge/-TWITTER-informational?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/__AnkushSingh__/)
 [![](https://img.shields.io/badge/-INSTAGRAM-informational?style=flat-square&logo=instagram&logoColor=white&color=orange)](https://instagram.com/__ankushkun__/)
 [![](https://img.shields.io/discord/695652747487477770?label=JOIN+COMMUNITY+ON+DISCORD&logo=discord&logoColor=white)](https://discord.io/geeksunite)
