@@ -5,12 +5,15 @@
  Languages = ["Python","Java","C#","HTML","CSS","Javascript","C++"]
 ```
 
-[![](icons/../Icon/writing_code.gif)](https://ankushKun.github.io)
+<div align=center>
+ 
+<a href="https://ankushKun.github.io"><img src="icons/../Icon/writing_code.gif" align=center></a>
 
+</div>
 
 <details open>
 <summary>Social Links</summary>
-
+<div align=center>
 
 [![](https://img.shields.io/discord/695652747487477770?label=DISCORD&logo=discord&logoColor=white)](https://discord.io/geeksunite)
 [![](https://img.shields.io/badge/-REDDIT-informational?style=flat-square&logo=reddit&logoColor=white&color=black)](https://www.reddit.com/u/TECHIE6023)
@@ -18,7 +21,7 @@
 [![](https://img.shields.io/badge/-TWITTER-informational?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/__AnkushSingh__/)
 [![](https://img.shields.io/badge/-INSTAGRAM-informational?style=flat-square&logo=instagram&logoColor=white&color=orange)](https://instagram.com/__ankushkun__/)
 [![](https://img.shields.io/badge/-FIVERR-informational?style=flat-square&logo=fiverr&logoColor=white&color=brightgreen)](https://fiverr.com/ATCtech)
-
+</div>
 </details>
 
 
