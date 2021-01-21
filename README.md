@@ -6,8 +6,8 @@
 ```
 
 <div align=center>
- 
-<a href="https://ankushKun.github.io"><img src="icons/../Icon/writing_code.gif" align=center></a>
+
+<a href="https://ankushKun.github.io" target="blank_"><img src="icons/../Icon/writing_code.gif" align=center></a>
 
 </div>
 
