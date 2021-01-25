@@ -6,14 +6,14 @@ Interests = ["Programming", "Anime/Manga", "Digital Art", "Playing Guitar"]
 Languages = ["Python","Java","C#","HTML","CSS","Javascript","C++"]
 ```
 
-<center>
+<div align=center>
 
 [![typing speed x 1000](icons/../Icon/writing_code.gif)](https://github.com/ankushKun)
 </center>
 
 <details open>
 <summary>Social Links</summary>
-<center>
+<div align=center>
 
 [![geeks unite discord](https://img.shields.io/discord/695652747487477770?label=DISCORD&logo=discord&logoColor=white)](https://discord.io/geeksunite)
 [![u/TECHIE6023 reddit](https://img.shields.io/badge/-REDDIT-informational?style=flat-square&logo=reddit&logoColor=white&color=black)](https://www.reddit.com/u/TECHIE6023)
@@ -27,8 +27,8 @@ Languages = ["Python","Java","C#","HTML","CSS","Javascript","C++"]
 
 <details open>
 <summary>GitHub Stats</summary>
-<center>
-
+<div align=center>
+    
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ankushKun)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ankushKun)
 
