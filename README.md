@@ -12,7 +12,7 @@ Languages = ["Python","Java","C#","HTML","CSS","Javascript","C++"]
 </div>
 
 <details open>
-<summary>Social Links</summary>
+<summary style="cursor: pointer;">SOCIAL MEDIA LINKS</summary>
 <div align=center>
 
 [![geeks unite discord](https://img.shields.io/discord/695652747487477770?label=DISCORD&logo=discord&logoColor=white)](https://discord.io/geeksunite)
@@ -26,11 +26,28 @@ Languages = ["Python","Java","C#","HTML","CSS","Javascript","C++"]
 </details>
 
 <details open>
-<summary>GitHub Stats</summary>
+<summary style="cursor: pointer;">GITHUB STATS</summary>
 <div align=center>
     
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ankushKun)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ankushKun)
+
+</div>
+</details>
+
+<details open>
+<summary style="cursor: pointer;">TECH STACK</summary>
+<div align=center>
+
+<img src="./logos/html-5.svg"  height=50 width=55 title="HTML 5">
+<img src="./logos/css-3.svg"  height=50 width=55 title="CSS 3">
+<img src="./logos/javascript.svg"  height=50 width=55 title="Javascript">
+<img src="./logos/java.svg"  height=50 width=55 title="Java">
+<img src="./logos/python.svg"  height=50 width=55 title="Python">
+<img src="./logos/github.svg"  height=50 width=55 title="Github">
+<img src="./logos/linux.svg"  height=50 width=55 title="Linux">
+<img src="./logos/unity-3d.svg"  height=50 width=55 title="Unity 3D">
+<img src="./logos/visual-studio-code.svg"  height=50 width=55 title="VS Code">
 
 </div>
 </details>
