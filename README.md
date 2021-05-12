@@ -8,7 +8,7 @@ Languages = ["Python","Java","C#","HTML","CSS","Javascript","C++"]
 
 <div align=center>
 
-[![typing speed x 1000](icons/../Icon/writing_code.gif)](https://github.com/ankushKun)
+<!--[![typing speed x 1000](icons/../Icon/writing_code.gif)](https://github.com/ankushKun)-->
 </div>
 
 <details open>
