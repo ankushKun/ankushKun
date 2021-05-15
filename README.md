@@ -44,7 +44,7 @@ Languages = ["Python","Java","C#","HTML","CSS","Javascript","C++"]
 <img src="./logos/javascript.svg"  height=50 width=55 title="Javascript">
 <img src="./logos/java.svg"  height=50 width=55 title="Java">
 <img src="./logos/python.svg"  height=50 width=55 title="Python">
-<img src="./logos/github.svg"  height=50 width=55 title="Github">
+<img src="./Icon/github.png"  height=50 width=55 title="Git and Github">
 <img src="./logos/linux.svg"  height=50 width=55 title="Linux">
 <img src="./logos/unity-3d.svg"  height=50 width=55 title="Unity 3D">
 <img src="./logos/visual-studio-code.svg"  height=50 width=55 title="VS Code">
