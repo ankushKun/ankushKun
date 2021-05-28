@@ -28,10 +28,13 @@ Languages = ["Python","Java","C#","HTML","CSS","Javascript","C++"]
 <details open>
 <summary style="cursor: pointer;">GITHUB STATS</summary>
 <div align=center>
+<a>
+    <img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" height="195px">
+</a>
+<a>
+    <img aligh="center" src="https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" height="195px">
+</a>
     
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)](https://github.com/ankushKun)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ankushKun)
-
 </div>
 </details>
 
