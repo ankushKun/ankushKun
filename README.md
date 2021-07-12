@@ -1,6 +1,7 @@
 # Greetings <img src="https://cdn.discordapp.com/emojis/708780901642797076.gif" width="30px">
 
-<img align="right" src="icons/../Icon/writing_code.gif" width="250px">
+<img align="right" src="icons/../Icon/writing_code.gif" height="115px"  style="border-radius:10px; padding:4px">
+
 <div align="left">
 
 ```python
@@ -22,7 +23,7 @@ aboutMe = {
 
 </div>
 
-<details open>
+<details>
 <summary style="cursor: pointer;">SOCIAL MEDIA LINKS</summary>
 <div align=center>
 
