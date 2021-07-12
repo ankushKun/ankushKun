@@ -1,5 +1,8 @@
 # Greetings <img src="https://cdn.discordapp.com/emojis/708780901642797076.gif" width="30px">
 
+<img align="right" src="icons/../Icon/writing_code.gif" width="250px">
+<div align="left">
+
 ```python
 aboutMe = {
     Name      : "Ankush Singh",
@@ -7,11 +10,16 @@ aboutMe = {
     Languages :["Python","Java","C#","HTML","CSS","Javascript","C++"],
 }
 ```
+</div>
+
+
+
+
 
 
 <div align=center>
 
-<!--[![typing speed x 1000](icons/../Icon/writing_code.gif)](https://github.com/ankushKun)-->
+
 </div>
 
 <details open>
@@ -41,19 +49,23 @@ aboutMe = {
 </div>
 </details>
 
-<details>
+<details open>
 <summary style="cursor: pointer;">TECH STACK</summary>
 <div align=center>
 
+<img src="./logos/python.svg"  height=50 width=55 title="Python">
+<img src="./logos/java.svg"  height=50 width=55 title="Java">
 <img src="./logos/html-5.svg"  height=50 width=55 title="HTML 5">
 <img src="./logos/css-3.svg"  height=50 width=55 title="CSS 3">
+<img src="./logos/bootstrap.png"  height=50 width=55 title="Bootstrap">
 <img src="./logos/javascript.svg"  height=50 width=55 title="Javascript">
-<img src="./logos/java.svg"  height=50 width=55 title="Java">
-<img src="./logos/python.svg"  height=50 width=55 title="Python">
+
+
 
 ### Tools
-<img src="./Icon/git.png"  height=50 width=55 title="Git">
-<img src="./Icon/github.png"  height=50 width=55 title="Git">
+
+<img src="./logos/git.png"  height=50 width=55 title="Git">
+<img src="./logos/Octocat.png"  height=50 width=55 title="Github">
 <img src="./logos/linux.svg"  height=50 width=55 title="Linux">
 <img src="./logos/unity-3d.svg"  height=50 width=55 title="Unity 3D">
 <img src="./logos/visual-studio-code.svg"  height=50 width=55 title="VS Code">
