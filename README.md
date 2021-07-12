@@ -22,7 +22,7 @@ aboutMe = {
 [![u/TECHIE6023 reddit](https://img.shields.io/badge/-REDDIT-informational?style=flat-square&logo=reddit&logoColor=white&color=black)](https://www.reddit.com/u/TECHIE6023)
 [![Ankush Tech Creator youtube](https://img.shields.io/badge/-YOUTUBE-informational?style=flat-square&logo=youtube&logoColor=white&color=red)](https://youtube.com/AnkushTechCreator/)
 [![@__AnkushSingh__ twitter](https://img.shields.io/badge/-TWITTER-informational?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/__AnkushSingh__/)
-[![__ankushkun__ instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=flat-square&logo=instagram&logoColor=white&color=orange)](https://instagram.com/__ankushkun__/)
+[![__weebletkun__ instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=flat-square&logo=instagram&logoColor=white&color=orange)](https://instagram.com/__weebletkun__/)
 [![ATCtech fiverr](https://img.shields.io/badge/-FIVERR-informational?style=flat-square&logo=fiverr&logoColor=white&color=brightgreen)](https://fiverr.com/ATCtech)
 
 </div>
@@ -50,10 +50,13 @@ aboutMe = {
 <img src="./logos/javascript.svg"  height=50 width=55 title="Javascript">
 <img src="./logos/java.svg"  height=50 width=55 title="Java">
 <img src="./logos/python.svg"  height=50 width=55 title="Python">
-<img src="./Icon/github.png"  height=50 width=55 title="Git and Github">
+
+### Tools
+<img src="./Icon/git.png"  height=50 width=55 title="Git">
+<img src="./Icon/github.png"  height=50 width=55 title="Git">
 <img src="./logos/linux.svg"  height=50 width=55 title="Linux">
 <img src="./logos/unity-3d.svg"  height=50 width=55 title="Unity 3D">
 <img src="./logos/visual-studio-code.svg"  height=50 width=55 title="VS Code">
-
+    
 </div>
 </details>
