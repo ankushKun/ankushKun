@@ -34,14 +34,20 @@ AboutMe = {
         <img src="https://img.shields.io/badge/-github-whitesmoke?style=for-the-badge&labelColor=whitesmoke&logo=github&logoColor=black">
         <img src="https://img.shields.io/badge/-vs code-2c2f33?style=for-the-badge&labelColor=2c2f33&logo=visualstudiocode&logoColor=blue">
         <img src="https://img.shields.io/badge/-heroku-6567a5?style=for-the-badge&labelColor=6567a5&logo=heroku&logoColor=white">
+        <img src="https://img.shields.io/badge/-VIM-darkgreen?style=for-the-badge&labelColor=darkgreen&logo=vim&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/-Photoshop-blue?style=for-the-badge&labelColor=blue&logo=adobe-photoshop&logoColor=white">
 </div>
 <br>
 
 <div align="center">
-    <h2>Github Profile Stats</h2>
+    <h2>Github Profile Stats 📊</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="175px">
     <img src="https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushKun&show_icons=true&hide_border=true&theme=dark" height="175px">
+    <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=ankushKun&theme=onedark&no-frame=true&no-bg=true&theme=discord">
+
 </div>
 
 <div align=center>
