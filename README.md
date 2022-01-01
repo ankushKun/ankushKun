@@ -56,12 +56,10 @@ AboutMe = {
 <div align=center>
 <h2>Social media links</h2>
     
-[![study server](https://img.shields.io/badge/-DISCORD-informational?style=for-the-badge&logo=discord&logoColor=23272a&color=7289da)](https://discord.gg/bcx7vwFXJG)
 [![u/TECHIE6023 reddit](https://img.shields.io/badge/-REDDIT-informational?style=for-the-badge&logo=reddit&logoColor=white&color=ff0000)](https://www.reddit.com/u/TECHIE6023)
 [![Ankush Tech Creator youtube](https://img.shields.io/badge/-YOUTUBE-informational?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://youtube.com/AnkushTechCreator/)
-[![@__weebletKun__ twitter](https://img.shields.io/badge/-TWITTER-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/__weebletKun__/)
+[![@__weebletKun__ twitter](https://img.shields.io/badge/-TWITTER-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/__AnkushSingh__/)
 [![__weebletkun__ instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=for-the-badge&logo=instagram&logoColor=white&color=orange)](https://instagram.com/__weebletkun__/)
-[![ATCtech fiverr](https://img.shields.io/badge/-FIVERR-informational?style=for-the-badge&logo=fiverr&logoColor=white&color=brightgreen)](https://fiverr.com/ATCtech)
 
 </div>
 
