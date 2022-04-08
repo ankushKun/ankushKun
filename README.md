@@ -57,7 +57,7 @@ AboutMe = {
     
 [![u/TECHIE6023 reddit](https://img.shields.io/badge/-REDDIT-informational?style=for-the-badge&logo=reddit&logoColor=white&color=ff0000)](https://www.reddit.com/u/TECHIE6023)
 [![I am Ankush youtube](https://img.shields.io/badge/-YOUTUBE-informational?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://youtube.com/IamAnkush/)
-[![@__AnkushSingh__ twitter](https://img.shields.io/badge/-TWITTER-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/__AnkushSingh__/)
+[![@__AnkushSingh__ twitter](https://img.shields.io/badge/-TWITTER-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/ankushKun_/)
 [![__weebletkun__ instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=for-the-badge&logo=instagram&logoColor=white&color=orange)](https://instagram.com/__weebletKun__/)
 
 </div>
