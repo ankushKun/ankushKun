@@ -9,7 +9,7 @@ AboutMe = {
     Pronouns  : "He/Him",
     Hobbies   : [
         "Playing Guitar", "Drawing Art", "Creating Useful Tools", "Speedcubing", "Video Making"
-    ],
+    ]
 }
 ```
 
