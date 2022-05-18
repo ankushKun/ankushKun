@@ -14,10 +14,10 @@ AboutMe = {
 ```
 
 <div align="center">
-    <h2>Some of my notable repos ☺️</h2>
+    <h2>Some of my notable repos <img src="https://cdn.discordapp.com/emojis/763708605114482708.webp" width="30px"></h2>
     <a href="https://github.com/Desonity/Desonity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Desonity&repo=Desonity&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-    <a href="https://github.com/ankushKun/animedoro-timer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushKun&repo=animedoro-timer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px">
-    <a href="https://github.com/ankushKun/DiscordDatabase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushKun&repo=DiscordDatabase&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px">
+    <a href="https://github.com/ankushKun/animedoro-timer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushKun&repo=animedoro-timer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
+    <a href="https://github.com/ankushKun/DiscordDatabase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushKun&repo=DiscordDatabase&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
     
 </div>
 
