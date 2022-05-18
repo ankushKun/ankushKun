@@ -8,10 +8,18 @@ AboutMe = {
     Name      : "Ankush Singh",
     Pronouns  : "He/Him",
     Hobbies   : [
-        "Playing Guitar", "Drawing Art", "Creating Useful Tools", "Speedcubing", "Video Making"
-    ],
+        "Guitar", "Art", "Building Tools", "Speedcubing", "Videography", "VTubing"
+    ]
 }
 ```
+
+<div align="center">
+    <h2>Some of my notable repos ☺️</h2>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Desonity&repo=Desonity&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushKun&repo=animedoro-timer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushKun&repo=DiscordDatabase&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px">
+    
+</div>
 
 <div align="center">
     <h2>Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px"></h2>
@@ -32,10 +40,11 @@ AboutMe = {
     <h4>Sofware and Tools</h4>
         <img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&labelColor=orange&logo=git&logoColor=black">
         <img src="https://img.shields.io/badge/-github-whitesmoke?style=for-the-badge&labelColor=whitesmoke&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/-(NEO)VIM-darkgreen?style=for-the-badge&labelColor=darkgreen&logo=vim&logoColor=white">
         <img src="https://img.shields.io/badge/-vs code-2c2f33?style=for-the-badge&labelColor=2c2f33&logo=visualstudiocode&logoColor=blue">
         <img src="https://img.shields.io/badge/-heroku-6567a5?style=for-the-badge&labelColor=6567a5&logo=heroku&logoColor=white">
-        <img src="https://img.shields.io/badge/-VIM-darkgreen?style=for-the-badge&labelColor=darkgreen&logo=vim&logoColor=white">
-        <img src="https://img.shields.io/badge/-Node JS-green?style=for-the-badge&labelColor=green&logo=nodejs&logoColor=black">
+        <img src="https://img.shields.io/badge/-Node JS-darkgreen?style=for-the-badge&labelColor=darkgreen&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/-unity_3D-white?style=for-the-badge&labelColor=white&logo=unity&logoColor=black">
         <br>
         <img src="https://img.shields.io/badge/-Photoshop-blue?style=for-the-badge&labelColor=blue&logo=adobe-photoshop&logoColor=white">
         <img src="https://img.shields.io/badge/-Premiere Pro-darkblue?style=for-the-badge&labelColor=darkblue&logo=adobe-premiere-pro&logoColor=white">
@@ -44,21 +53,21 @@ AboutMe = {
 
 <div align="center">
     <h2>Github Profile Stats 📊</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="175px">
-    <img src="https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushKun&show_icons=true&hide_border=true&theme=dark" height="175px">
-    <!-- <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=ankushKun&theme=onedark&no-frame=true&no-bg=true&theme=discord"> -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="175px">
+<img src="https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushKun&show_icons=true&hide_border=true&theme=dark" height="175px">
 
 </div>
 
 <div align=center>
 <h2>Social media links</h2>
-    
+
+[![@weeblet DeSo](https://img.shields.io/badge/-💠_DECENTRALISED_SOCIAL-informational?style=for-the-badge&logo=none&logoColor=white&color=lightblue)](https://www.reddit.com/u/TECHIE6023)
 [![u/TECHIE6023 reddit](https://img.shields.io/badge/-REDDIT-informational?style=for-the-badge&logo=reddit&logoColor=white&color=ff0000)](https://www.reddit.com/u/TECHIE6023)
 [![I am Ankush youtube](https://img.shields.io/badge/-YOUTUBE-informational?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://youtube.com/IamAnkush/)
-[![@__AnkushSingh__ twitter](https://img.shields.io/badge/-TWITTER-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/ankushKun_/)
-[![__weebletkun__ instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=for-the-badge&logo=instagram&logoColor=white&color=orange)](https://instagram.com/__weebletKun__/)
+[![@ankushKun_ twitter](https://img.shields.io/badge/-TWITTER-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/ankushKun_/)
+[![@ankushKun_ instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=for-the-badge&logo=instagram&logoColor=white&color=orange)](https://instagram.com/ankushKun_/)
 
 </div>
 
