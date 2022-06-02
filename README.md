@@ -63,7 +63,7 @@ AboutMe = {
 <div align=center>
 <h2>Social media links</h2>
 
-[![@weeblet DeSo](https://img.shields.io/badge/-💠_DECENTRALISED_SOCIAL-informational?style=for-the-badge&logo=none&logoColor=white&color=lightblue)](https://www.reddit.com/u/TECHIE6023)
+[![@weeblet DeSo](https://img.shields.io/badge/-💠_DECENTRALISED_SOCIAL-informational?style=for-the-badge&logo=none&logoColor=white&color=lightblue)](https://diamondapp.com/u/weeblet)
 [![u/TECHIE6023 reddit](https://img.shields.io/badge/-REDDIT-informational?style=for-the-badge&logo=reddit&logoColor=white&color=ff0000)](https://www.reddit.com/u/TECHIE6023)
 [![I am Ankush youtube](https://img.shields.io/badge/-YOUTUBE-informational?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://youtube.com/IamAnkush/)
 [![@ankushKun_ twitter](https://img.shields.io/badge/-TWITTER-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/ankushKun_/)
