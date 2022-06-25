@@ -1,14 +1,13 @@
-<h1 align="center"> Greetings <img src="https://cdn.discordapp.com/emojis/708780901642797076.gif" width="30px"></h1>
+<h1 align="center"> Greetings <img src="https://cdn.discordapp.com/emojis/708780901642797076.gif" height="35px"></h1>
 
+<h2 align="center"> Who am I? <img src="https://cdn.discordapp.com/emojis/852778687958482944.gif" height="35px"></h2>
     
-<h2 align="center"> Who am I? <img src="https://cdn.discordapp.com/emojis/852778687958482944.gif?v=1" width="30px"></h2>
-    
-```python
+```javascript
 AboutMe = {
     Name      : "Ankush Singh",
     Pronouns  : "He/Him",
     Hobbies   : [
-        "Guitar", "Art", "Building Tools", "Speedcubing", "Videography", "VTubing"
+        "Guitar", "Art", "Videography", "Software Development", "Cryptography/Code Breaking"
     ]
 }
 ```
