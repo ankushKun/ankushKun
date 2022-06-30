@@ -36,6 +36,7 @@ AboutMe = {
         <img src="https://img.shields.io/badge/-Bootstrap-602C50?style=for-the-badge&labelColor=602C50&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa611" >
         <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&labelColor=black&logo=React&logoColor=blue" >
+        <img src="https://img.shields.io/badge/-Svelte-orange?style=for-the-badge&labelColor=orange&logo=Svelte&logoColor=white" >
     <h4>Sofware and Tools</h4>
         <img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&labelColor=orange&logo=git&logoColor=black">
         <img src="https://img.shields.io/badge/-github-whitesmoke?style=for-the-badge&labelColor=whitesmoke&logo=github&logoColor=black">
