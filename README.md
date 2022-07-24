@@ -45,12 +45,17 @@
     <h4>Sofware and Tools</h4>
         <img src="https://img.shields.io/badge/-git-202020?style=for-the-badge">
         <img src="https://img.shields.io/badge/-github-202020?style=for-the-badge">
+        <br>
         <img src="https://img.shields.io/badge/-(NEO)VIM-202020?style=for-the-badge">
         <img src="https://img.shields.io/badge/-vs code-202020?style=for-the-badge">
+        <br>
         <img src="https://img.shields.io/badge/-heroku-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-Node JS-202020?style=for-the-badge">
+        <img src="https://img.shields.io/badge/-Vercel-202020?style=for-the-badge">
+        <br>
         <img src="https://img.shields.io/badge/-unity_3D-202020?style=for-the-badge">
         <img src="https://img.shields.io/badge/-Godot_Engine-202020?style=for-the-badge">
+        <br>
+        <img src="https://img.shields.io/badge/-Node JS-202020?style=for-the-badge">
 </div>
 <br>
 
