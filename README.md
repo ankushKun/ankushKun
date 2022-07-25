@@ -2,12 +2,21 @@
 
 <div align="center" style="color:blue">
 
-<a href="https://github.com/ankushKun">student</a> · <a href="https://github.com/ankushKun">gamedev</a> · <a href="https://github.com/ankushKun"> blockchain dev</a>
+<a href="https://github.com/ankushKun">student</a> · 
+<a href="https://github.com/ankushKun">gamedev</a> ·
+<a href="https://github.com/ankushKun"> blockchain dev</a>
 
 <a href="https://ankushKun.github.io" target="_blank">checkout portfolio</a>
 
 <h3>Socials</h3>
-<a href="https://twitter.com/ankushKun_" target="_blank">Twitter</a> · <a href="https://linkedin.com/in/ankushKun" target="_blank">LinkedIn</a> · <a href="https://diamondapp.com/u/weeblet" target="_blank">DeSo</a> · <a href="https://instagram.com/ankushKun_" target="_blank">Instagram</a> · <a href="https://reddit.com/u/TECHIE6023 target="_blank">Reddit</a> · <a href="https://discord.com/app" target="_blank">Discord (weeblet#4745)</a> · <a href="https://youtube.com/ankushKun" target="_blank">YouTube</a> 
+
+<a href="https://twitter.com/ankushKun_" target="_blank">Twitter</a> ·
+<a href="https://linkedin.com/in/ankushKun" target="_blank">LinkedIn</a> ·
+<a href="https://diamondapp.com/u/weeblet" target="_blank">DeSo</a> ·
+<a href="https://instagram.com/ankushKun_" target="_blank">Instagram</a> ·
+<a href="https://reddit.com/u/TECHIE6023" target="_blank">Reddit</a> ·
+<a href="https://discord.com/app" target="_blank">Discord (weeblet#4745)</a> ·
+<a href="https://youtube.com/ankushKun" target="_blank">YouTube</a> 
     
 </div>
 
