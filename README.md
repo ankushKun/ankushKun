@@ -29,55 +29,60 @@
     
 </div>
 
-<div align="center">
-    <h2>Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px"></h2>
-    <h4>Languages</h4>
-        <img src="https://img.shields.io/badge/-python-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-java-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-c sharp-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-cpp-202020?style=for-the-badge">
-        <br>
-        <img src="https://img.shields.io/badge/-HTML 5-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-css 3-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-Javascript-202020?style=for-the-badge">
-    <h4>Libraries and Frameworks</h4>
-        <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-NextJS-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-Svelte-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-Flask-202020?style=for-the-badge">
-        <br>
-        <img src="https://img.shields.io/badge/-Bootstrap-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-Tailwind CSS-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-Firebase Database-202020?style=for-the-badge" >
-        <br>
-        <img src="https://img.shields.io/badge/-Discord.py-202020?style=for-the-badge">
-    <h4>Sofware and Tools</h4>
-        <img src="https://img.shields.io/badge/-git-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-github-202020?style=for-the-badge">
-        <br>
-        <img src="https://img.shields.io/badge/-(NEO)VIM-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-vs code-202020?style=for-the-badge">
-        <br>
-        <img src="https://img.shields.io/badge/-heroku-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-Vercel-202020?style=for-the-badge">
-        <br>
-        <img src="https://img.shields.io/badge/-unity_3D-202020?style=for-the-badge">
-        <img src="https://img.shields.io/badge/-Godot_Engine-202020?style=for-the-badge">
-        <br>
-        <img src="https://img.shields.io/badge/-Node JS-202020?style=for-the-badge">
-</div>
 <br>
 
 <div align="center">
     <h2>Github Profile Stats 📊</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="175px">
-<img src="https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushKun&show_icons=true&hide_border=true&theme=dark" height="175px">
+<img src="https://github-profile-trophy.vercel.app/?username=ankushKun&theme=oldie&no-bg=false&no-frame=true&column=-1&margin-w=5" alt="ankushKun trophies">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&layout=compact&hide_border=true" height="175px">
+<img src="https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&hide_border=true" height="175px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushKun&show_icons=true&hide_border=true&theme=Javascript&background=f1f0f1" height="175px">
 
 </div>
 
 <div align=center>
+
+<br>
+
+<div align="center">
+<details open>
+<summary><h2>Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px"></h2></summary>
+<h4>Languages</h4>
+<img src="https://img.shields.io/badge/-python-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-java-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-c sharp-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-cpp-202020?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/-HTML 5-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-css 3-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Javascript-202020?style=for-the-badge">
+<h4>Libraries and Frameworks</h4>
+<img src="https://img.shields.io/badge/-React-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-NextJS-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Svelte-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Flask-202020?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/-Bootstrap-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Tailwind CSS-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Firebase Database-202020?style=for-the-badge" >
+<br>
+<img src="https://img.shields.io/badge/-Discord.py-202020?style=for-the-badge">
+<h4>Sofware and Tools</h4>
+<img src="https://img.shields.io/badge/-git-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-github-202020?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/-(NEO)VIM-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-vs code-202020?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/-heroku-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Vercel-202020?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/-unity_3D-202020?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Godot_Engine-202020?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/-Node JS-202020?style=for-the-badge">
+</details>
+</div>
 
 <div align="right">
     
