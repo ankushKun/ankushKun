@@ -3,8 +3,8 @@
 <div align="center" style="color:blue">
 
 <a href="https://github.com/ankushKun">student</a> · 
-<a href="https://github.com/ankushKun">gamedev</a> ·
-<a href="https://github.com/ankushKun"> blockchain dev</a>
+<a href="https://github.com/ankushKun">game developer</a> ·
+<a href="https://github.com/ankushKun"> blockchain developer</a>
 
 <a href="https://ankushKun.github.io" target="_blank">checkout portfolio</a>
 
