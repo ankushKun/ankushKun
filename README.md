@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/-python-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-java-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-c sharp-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-rust-silver?style=for-the-badge">
 <br>
 <img src="https://img.shields.io/badge/-HTML 5-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-css 3-grey?style=for-the-badge">
@@ -50,6 +51,7 @@
 <img src="https://img.shields.io/badge/-Svelte-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Flask-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-ExpressJS-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Tauri-silver?style=for-the-badge">
 <br>
 <img src="https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Tailwind CSS-grey?style=for-the-badge">
@@ -61,7 +63,9 @@
 <img src="https://img.shields.io/badge/-github-grey?style=for-the-badge">
 <br>
 <img src="https://img.shields.io/badge/-(NEO)VIM-silver?style=for-the-badge">
-<img src="https://img.shields.io/badge/-vs code-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-VS Code-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Beekeeper Studio-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Postman-silver?style=for-the-badge">
 <br>
 <img src="https://img.shields.io/badge/-heroku-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Vercel-grey?style=for-the-badge">
@@ -70,6 +74,9 @@
 <img src="https://img.shields.io/badge/-Godot_Engine-silver?style=for-the-badge">
 <br>
 <img src="https://img.shields.io/badge/-Node JS-grey?style=for-the-badge">
+<h4>Hardware & Electronics</h4>
+<img src="https://img.shields.io/badge/-Arduino-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Raspberry PI-grey?style=for-the-badge">
 </details>
 </div>
 
