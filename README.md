@@ -22,7 +22,7 @@
 <div align="center">
     <h2>Github Profile Stats 📊</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=ankushKun&theme=oldie&no-bg=false&no-frame=true&column=4&margin-w=5" alt="ankushKun trophies">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&layout=compact&hide_border=true&langs_count=8&hide=shaderlab,hlsl" height="175px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&layout=compact&hide_border=true&langs_count=8&hide=shaderlab,hlsl,jupyter-lab" height="175px">
 <img src="https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&hide_border=true" height="175px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushKun&show_icons=true&hide_border=true&theme=Javascript&background=f1f0f1" height="175px">
 
