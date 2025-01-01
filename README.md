@@ -2,11 +2,8 @@
 
 <div align="center" style="color:blue">
 
-<a href="https://github.com/ankushKun">student</a> · 
 <a href="https://github.com/ankushKun">I love building</a> ·
-<a href="https://github.com/ankushKun">web3 developer</a>
-
-<a href="https://ankushKun.github.io" target="_blank">checkout portfolio</a>
+<a href="https://ankushKun.github.io" target="_blank">open portfolio</a>
 
 
 <!-- <div align="center">
@@ -43,6 +40,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![swift](https://img.shields.io/badge/swift-%23FFFFFF.svg?style=for-the-badge&logo=swift&logoColor=orange)
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -56,9 +54,11 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
+![Arweave](https://img.shields.io/badge/ⓐ%20Arweave-%23ffffff.svg?style=for-the-badge&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -73,8 +73,7 @@
 <a href="https://linkedin.com/in/ankushKun" target="_blank">linkedIn</a> ·
 <a href="https://instagram.com/ankushKun_" target="_blank">instagram</a> ·
 <a href="https://discord.com/app" target="_blank">discord (@ankushkun)</a> ·
-<a href="https://reddit.com/u/TECHIE6023" target="_blank">reddit</a> ·
-<a href="https://diamondapp.com/u/weeblet" target="_blank">deso</a>
+<a href="https://reddit.com/u/TECHIE6023" target="_blank">reddit</a>
     
 </div>
 
