@@ -1,85 +1,80 @@
-<h1 align="center"> Hi, Welcome to my profile <img src="https://cdn.discordapp.com/emojis/708780901642797076.gif" height="35px"></h1>
+## Hi there! ᕕ( ᐛ )ᕗ
 
-<div align="center" style="color:blue">
+I'm [Ankush](https://x.com/ankushKun_), a full-stack developer and community builder [![Portfolio](https://img.shields.io/badge/View_Portfolio-1C1C1C?style=flat&logo=codementor&logoColor=white)](https://ankush.one)
 
-<a href="https://github.com/ankushKun">I love building</a> ·
-<a href="https://ankushKun.github.io" target="_blank">open portfolio</a>
+I love turning ideas into products.  
+I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
 
-
-<!-- <div align="center">
-    <h2>Some of my notable repos <img src="https://cdn.discordapp.com/emojis/763708605114482708.webp" width="30px"></h2>
-    <a href="https://github.com/Desonity/Desonity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Desonity&repo=Desonity&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-    <a href="https://github.com/ankushKun/animedoro-timer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushKun&repo=animedoro-timer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-    <a href="https://github.com/ankushKun/DiscordDatabase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushKun&repo=DiscordDatabase&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-    
-</div> -->
-
-<br>
+## Previously built
+- [create-magicblock](https://www.npmjs.com/package/create-magicblock) - cli tool for easily scaffolding solana magicblock apps
+- [Last Cat Standing](https://ankushkun.itch.io/cat) - A survival RPG where you play as a lone cat
+- [BetterIDEa](https://betteridea.ar.io) - Dev tooling suite, 30K+ users, acquired by [Forward Research](https://forward.ar.io/)
+- [AO Package Manager](https://github.com/betteridea-dev/ao-package-manager) - integrated into [permaweb](https://github.com/permaweb/) core infra
+- [Power Editor](https://github.com/ankushKun/power-editor) - image editing app for iOS
+- [Subspace](https://subspace.ar.io/) - On-Chain Decentralised Discord
+- [Wauth](https://github.com/subspace-dev/wauth) - social login solution for apps on Arweave network
 
 <div align="center">
-    <h2>Github Profile Stats 📊</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=ankushKun&theme=gruvbox&no-bg=false&no-frame=true&column=7&rank=SSS,SS,S,AAA,AA,A" alt="ankushKun trophies">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushKun&show_icons=true&theme=gruvbox&count_private=true&layout=compact&hide_border=true&langs_count=10&hide=shaderlab,hlsl,glsl,jupyter%20notebook,c%23" height="220px">
-<img src="https://github-readme-stats.vercel.app/api?username=ankushKun&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" height="175px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushKun&show_icons=true&hide_border=true&theme=gruvbox" height="175px">
 
-</div>
+## Skills & Interests
 
-<div align=center>
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1C?style=flat&logo=typescript&logoColor=3178C6)
+![Tauri](https://img.shields.io/badge/Tauri-0D7377?style=flat&logo=tauri&logoColor=white)
 
-<br>
+**Backend**  
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-1C1C1C?style=flat&logo=hono&logoColor=E36002)
+![Node.js](https://img.shields.io/badge/Node.js-1C1C1C?style=flat&logo=nodedotjs&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-1C1C1C?style=flat&logo=nestjs&logoColor=E0234E)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-1C1C1C?style=flat&logo=graphql&logoColor=E10098)
+![MongoDB](https://img.shields.io/badge/MongoDB-1C1C1C?style=flat&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C1C1C?style=flat&logo=postgresql&logoColor=4169E1)
+![Firebase](https://img.shields.io/badge/Firebase-1C1C1C?style=flat&logo=firebase&logoColor=DD2C00)
+![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat&logo=supabase&logoColor=3FCF8E)
 
-<div align="center">
-<details open>
-<summary><h2>Tech I usually work with <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px"></h2></summary>
+**Web3**  
+![Solidity](https://img.shields.io/badge/Solidity-1C1C1C?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-1C1C1C?style=flat&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-1C1C1C?style=flat&logo=solana&logoColor=9945FF)
+![Arweave](https://img.shields.io/badge/Arweave-1C1C1C?style=flat&logo=arweave&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)\
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![swift](https://img.shields.io/badge/swift-%23FFFFFF.svg?style=for-the-badge&logo=swift&logoColor=orange)
+**Tools**  
+![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=flat&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-1C1C1C?style=flat&logo=googleanalytics&logoColor=E37400)
+![PostHog](https://img.shields.io/badge/PostHog-1C1C1C?style=flat&logo=posthog&logoColor=F9BD2B)
+![Nginx](https://img.shields.io/badge/Nginx-1C1C1C?style=flat&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-1C1C1C?style=flat&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-1C1C1C?style=flat&logo=git&logoColor=F05032)
+![Nix](https://img.shields.io/badge/Nix-1C1C1C?style=flat&logo=nixos&logoColor=5277C3)
 
+**Hardware**  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1C1C1C?style=flat&logo=raspberrypi&logoColor=A22846)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-1C1C1C?style=flat&logo=emberdotjs&logoColor=E04E39)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+---
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+Find me on
 
-![Arweave](https://img.shields.io/badge/ⓐ%20Arweave-%23ffffff.svg?style=for-the-badge&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+[![X](https://img.shields.io/badge/Twitter-white?style=flat&logo=x&logoColor=black)](https://x.com/ankushKun_) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ankushKun) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankushKun) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/users/666578281142812673) 
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/u/TECHIE6023) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ankushKun_)
 
-
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-</details>
-</div>
-
-<h3>Socials</h3>
-
-<a href="https://twitter.com/ankushKun_" target="_blank">twitter</a> ·
-<a href="https://youtube.com/ankushKun" target="_blank">youtube</a> ·
-<a href="https://linkedin.com/in/ankushKun" target="_blank">linkedIn</a> ·
-<a href="https://instagram.com/ankushKun_" target="_blank">instagram</a> ·
-<a href="https://discord.com/app" target="_blank">discord (@ankushkun)</a> ·
-<a href="https://reddit.com/u/TECHIE6023" target="_blank">reddit</a>
-    
 </div>
 
 <div align="right">
     
-![](https://komarev.com/ghpvc/?username=ankushKun&style=for-the-badge&color=202020)
+![Profile Views](https://komarev.com/ghpvc/?username=ankushKun&style=flat&color=1C1C1C)
 
-    
 </div>
