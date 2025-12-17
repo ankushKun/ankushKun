@@ -6,13 +6,14 @@ I love turning ideas into products.
 I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
 
 ## Previously built
-- [create-magicblock](https://www.npmjs.com/package/create-magicblock) - cli tool for easily scaffolding solana magicblock apps
-- [Last Cat Standing](https://ankushkun.itch.io/cat) - A survival RPG where you play as a lone cat
+- [pixels.earth](https://pixels.earth) - Decentralised version of r/place, which transforms the earth into a realtime multiplayer pixel canvas.
+- [create-magicblock](https://www.npmjs.com/package/create-magicblock) - CLI tool for easily scaffolding solana magicblock apps.
+- [Last Cat Standing](https://ankushkun.itch.io/cat) - A survival RPG where you play as a lone cat.
 - [BetterIDEa](https://betteridea.ar.io) - Dev tooling suite, 30K+ users, acquired by [Forward Research](https://forward.ar.io/)
-- [AO Package Manager](https://github.com/betteridea-dev/ao-package-manager) - integrated into [permaweb](https://github.com/permaweb/) core infra
-- [Power Editor](https://github.com/ankushKun/power-editor) - image editing app for iOS
-- [Subspace](https://subspace.ar.io/) - On-Chain Decentralised Discord
-- [Wauth](https://github.com/subspace-dev/wauth) - social login solution for apps on Arweave network
+- [AO Package Manager](https://github.com/betteridea-dev/ao-package-manager) - integrated into [permaweb](https://github.com/permaweb/) core infra.
+- [Power Editor](https://github.com/ankushKun/power-editor) - image editing app for iOS.
+- [Subspace](https://subspace.ar.io/) - On-Chain Decentralised Discord.
+- [Wauth](https://github.com/subspace-dev/wauth) - social login solution for apps on Arweave network.
 
 <div align="center">
 
