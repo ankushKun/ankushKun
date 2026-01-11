@@ -5,15 +5,17 @@ I'm [Ankush](https://x.com/ankushKun_), a full-stack developer and community bui
 I love turning ideas into products.  
 I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
 
-## Previously built
+## Recently built
+- [WebAnimate](https://github.com/ankushKun/webanimate) - A Chrome extension for animating DOM elements on any website and recording them.
+- [CommentKit](https://commentkit.ankush.one) - Commenting solution for static websites
 - [pixels.earth](https://pixels.earth) - Decentralised version of r/place, which transforms the earth into a realtime multiplayer pixel canvas.
 - [create-magicblock](https://www.npmjs.com/package/create-magicblock) - CLI tool for easily scaffolding solana magicblock apps.
 - [Last Cat Standing](https://ankushkun.itch.io/cat) - A survival RPG where you play as a lone cat.
-- [BetterIDEa](https://betteridea.ar.io) - Dev tooling suite, 30K+ users, acquired by [Forward Research](https://forward.ar.io/)
-- [AO Package Manager](https://github.com/betteridea-dev/ao-package-manager) - integrated into [permaweb](https://github.com/permaweb/) core infra.
-- [Power Editor](https://github.com/ankushKun/power-editor) - image editing app for iOS.
-- [Subspace](https://subspace.ar.io/) - On-Chain Decentralised Discord.
 - [Wauth](https://github.com/subspace-dev/wauth) - social login solution for apps on Arweave network.
+- [Subspace](https://subspace.ar.io/) - On-Chain Decentralised Discord.
+- [Power Editor](https://github.com/ankushKun/power-editor) - image editing app for iOS.
+- [AO Package Manager](https://github.com/betteridea-dev/ao-package-manager) - integrated into [permaweb](https://github.com/permaweb/) core infra.
+- [BetterIDEa](https://betteridea.ar.io) - Dev tooling suite, 30K+ users, acquired by [Forward Research](https://forward.ar.io/)
 
 <div align="center">
 
