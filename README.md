@@ -6,7 +6,7 @@ I love turning ideas into products.
 I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
 
 ## Recently built
-- [My Pokemon Scanner](https://github.com/ankushKun/mypokemonscanner) - Pokemon card value analyzer app
+- [My Pokemon Scanner](https://mypokemonscanner.com) - Pokemon card value analyzer app
 - [WebAnimate](https://github.com/ankushKun/webanimate) - A Chrome extension for animating DOM elements on any website and recording them.
 - [CommentKit](https://commentkit.ankush.one) - Commenting solution for static websites
 - [pixels.earth](https://pixels.earth) - Decentralised version of r/place, which transforms the earth into a realtime multiplayer pixel canvas.
