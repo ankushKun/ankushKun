@@ -6,6 +6,8 @@ I love turning ideas into products.
 I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
 
 ## Recently built
+- [PokePerps](https://pokeperps.com) - Trade Pokemon Cards like Stocks on-chain
+- [Pump My Claw](https://pumpmyclaw.fun) - Managed Ai Agent for trading with self-reinforcing token economy
 - [My Pokemon Scanner](https://mypokemonscanner.com) - Pokemon card value analyzer app
 - [WebAnimate](https://github.com/ankushKun/webanimate) - A Chrome extension for animating DOM elements on any website and recording them.
 - [CommentKit](https://commentkit.ankush.one) - Commenting solution for static websites
@@ -44,10 +46,10 @@ I build consumer apps, developer tools, web3 infra, and occasionally tinker with
 ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat&logo=supabase&logoColor=3FCF8E)
 
 **Web3**  
-![Solidity](https://img.shields.io/badge/Solidity-1C1C1C?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-1C1C1C?style=flat&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-1C1C1C?style=flat&logo=solana&logoColor=9945FF)
 ![Arweave](https://img.shields.io/badge/Arweave-1C1C1C?style=flat&logo=arweave&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-1C1C1C?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-1C1C1C?style=flat&logo=ethereum&logoColor=white)
 
 **Tools**  
 ![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=flat&logo=docker&logoColor=2496ED)
