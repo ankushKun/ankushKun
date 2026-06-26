@@ -6,6 +6,8 @@ I love turning ideas into products.
 I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
 
 ## Recently built
+- [Construct Computer](https://construct.computer) - Fastest way to setup AI workforce for your business
+- [Polar](https://github.com/ankushKun/polar) - Site deployments on Walrus & Sui
 - [TradeX Cards](https://tradex.cards) - Trade Pokemon Cards like Stocks on-chain
 - [Pump My Claw](https://pumpmyclaw.fun) - Managed Ai Agent for trading with self-reinforcing token economy
 - [My Pokemon Scanner](https://mypokemonscanner.com) - Pokemon card value analyzer app
