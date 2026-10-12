@@ -5,22 +5,28 @@ I'm [Ankush](https://x.com/ankushKun_), a full-stack developer and community bui
 I love turning ideas into products.  
 I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
 
+These days I'm the **Co-founder & CTO** of [Construct Computer](https://construct.computer), where every AI employee gets its own cloud computer and you can watch it work.
+
 ## Recently built
-- [Construct Computer](https://construct.computer) - Fastest way to setup AI workforce for your business
-- [Polar](https://github.com/ankushKun/polar) - Site deployments on Walrus & Sui
-- [TradeX Cards](https://tradex.cards) - Trade Pokemon Cards like Stocks on-chain
-- [Pump My Claw](https://pumpmyclaw.fun) - Managed Ai Agent for trading with self-reinforcing token economy
-- [My Pokemon Scanner](https://mypokemonscanner.com) - Pokemon card value analyzer app
+- [Construct Computer](https://construct.computer) - AI employees that each get their own cloud computer with a browser, terminal, files and email. Finished [**#1 Product of the Day**](https://www.producthunt.com/products/construct-computer) on Product Hunt on 23 Aug 2026 🏆
+- [NepoNet](https://nepotism.network) - Warm intro finder for X that maps the friend-of-a-friend chain to anyone and drafts the first ask. Launched on [Product Hunt](https://www.producthunt.com/products/nepo-network) on 18 Sep 2026 and finished #9 of the day.
+- [Mixtunes](https://github.com/ankushKun/mixtunes) - Classic iTunes and Cover Flow for YouTube Music, available on the [Chrome Web Store](https://chromewebstore.google.com/detail/kaeebfmnanocpkfedmfgbkgjlihenjpm) and [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/mixtunes/).
+- [Polar](https://github.com/ankushKun/polar) - Site deployments on Walrus & Sui.
 - [WebAnimate](https://github.com/ankushKun/webanimate) - A Chrome extension for animating DOM elements on any website and recording them.
-- [CommentKit](https://commentkit.ankush.one) - Commenting solution for static websites
 - [pixels.earth](https://pixels.earth) - Decentralised version of r/place, which transforms the earth into a realtime multiplayer pixel canvas.
-- [create-magicblock](https://www.npmjs.com/package/create-magicblock) - CLI tool for easily scaffolding solana magicblock apps.
+- [create-magicblock](https://www.npmjs.com/package/create-magicblock) - CLI tool for easily scaffolding Solana MagicBlock apps.
 - [Last Cat Standing](https://ankushkun.itch.io/cat) - A survival RPG where you play as a lone cat.
-- [Wauth](https://github.com/subspace-dev/wauth) - social login solution for apps on Arweave network.
-- [Subspace](https://subspace.ar.io/) - On-Chain Decentralised Discord.
-- [Power Editor](https://github.com/ankushKun/power-editor) - image editing app for iOS.
-- [AO Package Manager](https://github.com/betteridea-dev/ao-package-manager) - integrated into [permaweb](https://github.com/permaweb/) core infra.
-- [BetterIDEa](https://betteridea.ar.io) - Dev tooling suite, 30K+ users, acquired by [Forward Research](https://forward.ar.io/)
+- [Wauth](https://github.com/subspace-dev/wauth) - Social login solution for apps on the Arweave network.
+- [Subspace](https://subspace.arweave.net) - On-chain decentralised Discord.
+- [Power Editor](https://github.com/ankushKun/power-editor) - Image editing app for iOS.
+- [AO Package Manager](https://github.com/betteridea-dev/ao-package-manager) - Integrated into [permaweb](https://github.com/permaweb/) core infra.
+- [BetterIDEa](https://betteridea.ar.io) - Dev tooling suite with 30K+ users, acquired by [Forward Research](https://fwd.arweave.net/).
+
+### Archived
+- [TradeX Cards](https://ankush.one/projects/2026.pokeperps/) - Trade Pokemon cards like stocks on-chain (started as PokePerps), shut down in March 2026.
+- [Pump My Claw](https://ankush.one/projects/2026.pumpmyclaw/) - Managed AI agents for trading with a self-reinforcing token economy.
+- [My Pokemon Scanner](https://ankush.one/projects/2026.pokemon-scanner/) - Pokemon card value analyzer that runs entirely in the browser.
+- [CommentKit](https://ankush.one/projects/2026.commentkit/) - Commenting solution for static websites.
 
 <div align="center">
 
@@ -72,10 +78,10 @@ I build consumer apps, developer tools, web3 infra, and occasionally tinker with
 
 Find me on
 
-[![X](https://img.shields.io/badge/Twitter-white?style=flat&logo=x&logoColor=black)](https://x.com/ankushKun_) 
+[![X](https://img.shields.io/badge/X-white?style=flat&logo=x&logoColor=black)](https://x.com/ankushKun_) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ankushKun) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankushKun) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/users/666578281142812673) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/666578281142812673) 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/u/TECHIE6023) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ankushKun_)
 
