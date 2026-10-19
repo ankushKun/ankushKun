@@ -3,12 +3,15 @@
 I'm [Ankush](https://x.com/ankushKun_), a full-stack developer and community builder [![Portfolio](https://img.shields.io/badge/View_Portfolio-1C1C1C?style=flat&logo=codementor&logoColor=white)](https://ankush.one)
 
 I love turning ideas into products.  
-I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
+I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects. Lately that means a lot of Nintendo 3DS homebrew.
 
 These days I'm the **Co-founder & CTO** of [Construct Computer](https://construct.computer), where every AI employee gets its own cloud computer and you can watch it work.
 
 ## Recently built
 - [Construct Computer](https://construct.computer) - AI employees that each get their own cloud computer with a browser, terminal, files and email. Finished [**#1 Product of the Day**](https://www.producthunt.com/products/construct-computer) on Product Hunt on 23 Aug 2026 🏆
+- [sh23ds](https://github.com/ankushKun/sh23ds) - Silent Hill 2 running natively on the Nintendo 3DS. The PC Director's Cut rebuilt in C with the Enhanced Edition's fixes, no emulation, and a [browser packer](https://ankush.one/sh23ds/packer.html) that converts your own copy of the game.
+- [3dsDL](https://github.com/ankushKun/3dsDL) - Download files straight onto your 3DS from a link, a QR code or your phone, over verified HTTPS with resume. Installs CIAs and manages titles and saves, built as a modern replacement for FBI.
+- [3dsFM](https://github.com/ankushKun/3dsFM) - A music player for the 3DS with cover flow, tags and cover art from the SD card, and playback that keeps going with the lid closed.
 - [NepoNet](https://nepotism.network) - Warm intro finder for X that maps the friend-of-a-friend chain to anyone and drafts the first ask. Launched on [Product Hunt](https://www.producthunt.com/products/nepo-network) on 18 Sep 2026 and finished #9 of the day.
 - [Mixtunes](https://github.com/ankushKun/mixtunes) - Classic iTunes and Cover Flow for YouTube Music, available on the [Chrome Web Store](https://chromewebstore.google.com/detail/kaeebfmnanocpkfedmfgbkgjlihenjpm) and [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/mixtunes/).
 - [Polar](https://github.com/ankushKun/polar) - Site deployments on Walrus & Sui.
